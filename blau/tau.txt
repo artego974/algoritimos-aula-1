@@ -1,0 +1,18 @@
+trocar lampada
+passo 1
+pegar uma lampada
+passo 2
+pegar as ferramentas
+passo 3
+pegar uma escada 
+passo 4
+junte todos os elementos e começe
+passo 5
+desrosque a lampada 
+passo 6
+insira a  nova 
+passo 7
+teste a lampada
+passo 8 
+guarde os materias
+<3
